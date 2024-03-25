@@ -1,0 +1,543 @@
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe.config
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.pdb
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fLogin.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.Properties.Resources.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.GenerateResource.Cache
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.pdb
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAccountProfile.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAdmin.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fTableManager.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.fHoTro.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.Bill.resources
+D:\HỌC TẬP\Năm 4\Thiet ke va xay dung phan mem\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe.licenses
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe.config
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.pdb
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.AssemblyReference.cache
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.Bill.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAccountProfile.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAdmin.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.fHoTro.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fTableManager.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fLogin.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.Properties.Resources.resources
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.GenerateResource.cache
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe.licenses
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.CopyComplete
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe
+C:\Users\Thanh Quan\OneDrive\Máy tính\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.pdb
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe.config
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.pdb
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Data.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.AssemblyReference.cache
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.Bill.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAccountProfile.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAdmin.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.fHoTro.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fTableManager.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fLogin.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.Properties.Resources.resources
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.GenerateResource.cache
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe.licenses
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.CoreCompileInputs.cache
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.CopyComplete
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe
+D:\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.pdb
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe.config
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.exe
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\QLQuanCF_V3.0.pdb
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.AssemblyReference.cache
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.Bill.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAccountProfile.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V1._0.PRE.fAdmin.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.GUI.fHoTro.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fTableManager.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.fLogin.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3._0.Properties.Resources.resources
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.GenerateResource.cache
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe.licenses
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.CoreCompileInputs.cache
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.csproj.CopyComplete
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.exe
+D:\Bài học\Công nghệ phần mềm\QLQuanCF_V3.0\QLQuanCF_V3.0\QLQuanCF_V3.0\obj\Debug\QLQuanCF_V3.0.pdb
